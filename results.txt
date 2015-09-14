@@ -1,3 +1,2 @@
-Results
-I found stuff.
-I made a change.
+When the multiplier is set to 2.0, the output is equal to the input.
+When the multiplier is set the 3.9, the output consists of different numbers.
